@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ResumeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <style name="TextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Textappearance" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+
+</resources>
